@@ -77,6 +77,8 @@ public class Car {
         this.mileageInKm = mileageInKm;
     }
 
+    // for learning Git
+
     //-----------------------------CUSTOM METHODS-------------------
 
     public void printFullData() {System.out.println(brandName + " " + modelName + " belongs to " + ownerName);}
